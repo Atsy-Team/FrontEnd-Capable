@@ -3,9 +3,7 @@
 }
 
 .header h2 {
-    color:  rgba(85, 104, 230, 1);
-
-    
+    color: rgba(85, 104, 230, 1);
 }
 
 .header p {
@@ -16,8 +14,6 @@
     background-color: rgba(115, 134, 255, 1);
 }
 
-
-
 .col-6 {
     width: 50%;
 }
@@ -25,10 +21,9 @@
 .signgoogle,
 .form-control,
 .btn-signin {
-    width: 100%; 
-    margin-top: 1rem; 
+    width: 100%;
+    margin-top: 1rem;
 }
-
 
 .signgoogle {
     display: block;
@@ -40,7 +35,7 @@
     cursor: pointer;
     text-align: center;
     text-decoration: none;
-    border-radius: 5px; 
+    border-radius: 5px;
     margin-top: 30px;
 }
 
@@ -49,7 +44,7 @@
 }
 
 .signgoogle:hover {
-    background-color: #f0f0f0; 
+    background-color: #f0f0f0;
 }
 
 .or-text {
@@ -57,7 +52,6 @@
     display: block;
     color: rgb(211, 209, 209);
 }
-
 
 .login-form {
     margin-top: 1.5rem;
@@ -85,8 +79,8 @@
     border-radius: 5px;
 }
 
-.btn-signin:hover{
-    background-color: #007bff;
+.btn-signin:hover {
+    background-color: #000000;
 }
 
 .text-decoration-none {
@@ -94,20 +88,17 @@
     color: #007bff;
 }
 
-
 .btn-click {
-    
     margin-top: 1.5rem;
     padding: 0.5rem 1rem;
     background-color: rgba(154, 193, 240, 0.8);
     color: #fff;
     border: none;
     cursor: pointer;
-    
+
     width: 50%;
 }
 
-.btn-click:hover{
+.btn-click:hover {
     background-color: #007bff;
 }
-
